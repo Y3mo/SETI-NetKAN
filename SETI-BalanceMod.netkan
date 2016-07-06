@@ -85,7 +85,11 @@
     ],
     "install" : [
         { 
-          "file"       : "SETIrebalance",
+          "find"       : "SETIrebalance",
+          "install_to" : "GameData"
+        },
+        { 
+          "find"       : "SETIrebalanceReactionWheels",
           "install_to" : "GameData"
         }
     ]
