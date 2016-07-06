@@ -6,7 +6,6 @@
     "identifier": "SETI-RebalanceMaterialsGoo",
     "abstract"     : "This is the SETI Rebalance MaterialsBay and MysteryGoo MM patch, so that those 2 experiments can not be collected by scientists anymore, which makes them much more balanced in terms of mass/science payout.",
     "license"	: "restricted",
-    "ksp_version_max": "1.99.99",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
     },
