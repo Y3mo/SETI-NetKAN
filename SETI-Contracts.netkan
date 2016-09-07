@@ -10,7 +10,13 @@
         { "name": "ModuleManager" }
     ],
     "recommends" : [
-        { "name": "CustomBarnKit" }
+        { "name": "CustomBarnKit" },
+		{ "name": "ContractConfigurator-AnomalySurveyor" },
+		{ "name": "ContractConfigurator-FieldResearch" },
+		{ "name": "ContractConfigurator-KerbinSpaceStation" },
+        { "name": "ContractConfigurator-Tourism" },
+        { "name": "GAP" },
+        { "name": "WaypointManager" }
     ],
     "install" : [
         { 
