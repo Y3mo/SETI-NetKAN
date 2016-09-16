@@ -2,6 +2,7 @@
     "spec_version"  : "v1.2",
     "$kref"         : "#/ckan/spacedock/20",
     "$vref" 	    : "#/ckan/ksp-avc",
+    "name"	    : "UnmannedBeforeManned (SETI)",
     "identifier"    : "UnmannedBeforeManned",
     "x_netkan_license_ok" : true,
     "ksp_version_max": "1.99.99",
