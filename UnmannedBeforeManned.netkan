@@ -19,21 +19,6 @@
         { 
 	    "find"       : "UnmannedBeforeManned",
             "install_to" : "GameData"
-        },
-        {
-            "file" 	 : "Ships/@thumbs",
-            "install_to" : "Ships",
-            "comment"    : "Thumbs for the craft files"
-        },
-        {
-            "file" 	 : "Ships/VAB",
-            "install_to" : "Ships",
-            "comment"    : "VAB craft files"
-        },
-        {
-            "file" 	 : "Ships/SPH",
-            "install_to" : "Ships",
-            "comment"    : "SPH craft files"
-	}
+        }
     ]
 }
