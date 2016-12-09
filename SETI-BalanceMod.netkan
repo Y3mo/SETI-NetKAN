@@ -7,7 +7,6 @@
     "x_netkan_license_ok" : true,
     "ksp_version_max": "1.99.99",
     "depends" : [
-        { "name": "KSP-AVC" },
         { "name": "ModuleManager" }
     ],
 	"recommends": [
@@ -40,6 +39,7 @@
 		{ "name": "KerbalEngineerRedux" },
 		{ "name": "KerbalJointReinforcement" },
 		{ "name": "KIS" },
+		{ "name": "KSP-AVC" },
 		{ "name": "LandingHeight" },
 		{ "name": "LightsOut" },
 		{ "name": "MechJeb2" },
