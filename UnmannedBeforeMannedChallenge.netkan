@@ -15,7 +15,6 @@
         { "name" : "UnmannedBeforeManned" }
     ],
 	"recommends": [
-        { "name": "CommunityTechTree" },
         { "name": "SETI-BalanceMod" },
         { "name": "SETI-ProbeParts" }
     ],
