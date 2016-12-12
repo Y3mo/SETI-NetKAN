@@ -18,6 +18,7 @@
         { "name": "CommunityTechTree" },
         { "name": "SETI-BalanceMod" },
         { "name": "SETI-ProbeParts" }
+    ],
     "install" : [
     	{ 
         "find" : "UnmannedBeforeMannedChallenge",
