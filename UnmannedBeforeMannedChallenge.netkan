@@ -2,7 +2,7 @@
     "$kref" : "#/ckan/github/Y3mo/UnmannedBeforeMannedChallenge",
     "$vref" : "#/ckan/ksp-avc",
     "spec_version" : 1,
-    "name": "Unmanned Before Manned Challenge",
+    "name": "Unmanned Before Manned Challenge (SETI-UbMchallenge)",
     "identifier": "UnmannedBeforeMannedChallenge",
     "abstract"     : "Makes UbM a bit more challenging. Reaction wheels not before 90 science, fuel lines to 550 science node, skipper engine one node later",
     "license"	: "restricted",
