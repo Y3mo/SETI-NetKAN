@@ -37,6 +37,7 @@
 		{ "name": "KerbalJointReinforcement" },
 		{ "name": "KIS" },
 		{ "name": "KSP-AVC" },
+		{ "name": "KSPRescuePodFix" },
 		{ "name": "LandingHeight" },
 		{ "name": "LightsOut" },
 		{ "name": "MechJeb2" },
