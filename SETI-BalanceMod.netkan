@@ -14,6 +14,7 @@
 		{ "name": "AutoAction" },
 		{ "name": "BackgroundProcessing" },
 		{ "name": "BetterBurnTime" },
+		{ "name": "BetterTimeWarpCont" },
 		{ "name": "CapCom" },
 		{ "name": "CommunityTechTree" },
 		{ "name": "ContractConfigurator" },
