@@ -78,6 +78,7 @@
 		{ "name": "ShuttleLiftingBodyCormorantAeronology" },
     		{ "name": "TACLS" },
     		{ "name": "ProceduralParts" },
+		{ "name": "UnmannedBeforeMannedChallenge" },
     		{ "name": "VenStockRevamp" },
     		{ "name": "Workshop" }
     ],
