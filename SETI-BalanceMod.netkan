@@ -12,6 +12,7 @@
 	"recommends": [
 		{ "name": "AlternateResourcePanel" },
 		{ "name": "AutoAction" },
+		{ "name": "AutomatedScienceSampler" },
 		{ "name": "BackgroundProcessing" },
 		{ "name": "BetterBurnTime" },
 		{ "name": "BetterTimeWarpCont" },
