@@ -54,6 +54,7 @@
 		{ "name": "SETI-ProbeParts" },
 		{ "name": "SETI-RemoteTech" },
 		{ "name": "ShipManifest" },
+		{ "name": "SmartActuation" },
 		{ "name": "StageRecovery" },
 		{ "name": "StationScienceContinued" },
 		{ "name": "TacFuelBalancer" },
