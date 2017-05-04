@@ -71,7 +71,6 @@
     "suggests"   : [
     		{ "name": "B9-PWings-Fork" },
     		{ "name": "KAS" },
-		{ "name": "NearFutureSpacecraft" },
     		{ "name": "ProceduralFairings" },
     		{ "name": "SCANsat" },
     		{ "name": "SETI-Greenhouse" },
