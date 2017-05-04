@@ -77,7 +77,6 @@
     		{ "name": "SCANsat" },
     		{ "name": "SETI-Greenhouse" },
     		{ "name": "SETI-RebalanceMaterialsGoo" },
-		{ "name": "ShuttleLiftingBodyCormorantAeronology" },
     		{ "name": "TACLS" },
 		{ "name": "UnmannedBeforeMannedChallenge" },
     		{ "name": "VenStockRevamp" },
