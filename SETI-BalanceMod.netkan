@@ -80,6 +80,7 @@
     		{ "name": "SETI-RebalanceMaterialsGoo" },
 		{ "name": "Strategia" },
     		{ "name": "TACLS" },
+		{ "name": "UniversalStorage" },
 		{ "name": "UnmannedBeforeMannedChallenge" },
     		{ "name": "VenStockRevamp" },
     		{ "name": "Workshop" }
