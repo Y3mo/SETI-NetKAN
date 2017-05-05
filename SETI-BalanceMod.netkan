@@ -75,6 +75,7 @@
     		{ "name": "KAS" },
     		{ "name": "ProceduralFairings" },
     		{ "name": "SCANsat" },
+		{ "name": "SETI-CustomBarnKit" },
     		{ "name": "SETI-Greenhouse" },
     		{ "name": "SETI-RebalanceMaterialsGoo" },
 		{ "name": "Strategia" },
