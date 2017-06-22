@@ -1,0 +1,22 @@
+{
+  "$kref"         : "#/ckan/github/Y3mo/SETI-CareerChallenge",
+  "$vref"         : "#/ckan/ksp-avc",
+  "spec_version"  : 1,
+  "name"          : "SETI-CareerChallenge",
+  "identifier"    : "SETI-CareerChallenge",
+  "abstract"      : "This is the fulcrum for the SETI-CareerChallenge meta mod pack. Only select this mod in CKAN, then click "ApplyChanges" and accept all recommendations and the suggestions you like, to get a more challenging KSP experience!",
+  "license"       : "restricted",
+  "ksp_version_max" : "1.99.99",
+  "resources"     : {
+    "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
+  },
+  "depends"       : [
+    { "name"      : "ModuleManager" }
+  ],
+  "install"       : [
+    { 
+      "find"      : "SETIcareerChallenge",
+      "install_to" : "GameData" 
+    } 
+  ]
+}
