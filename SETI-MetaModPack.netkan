@@ -1,0 +1,22 @@
+{
+    "$kref" : "#/ckan/github/Y3mo/SETI-MetaModPack",
+    "$vref" : "#/ckan/ksp-avc",
+    "spec_version" : 1,
+    "name": "SETI-MetaModPack",
+    "identifier": "SETI-MetaModPack",
+    "abstract"     : "Basic Configs to make SETI mods work well together.",
+    "license"	: "restricted",
+    "ksp_version_max": "1.99.99",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
+    },
+    "depends" : [
+      	{ "name": "ModuleManager" }
+    ],
+    "install" : [
+    	{ 
+        "find" : "SETImetaModPack",
+        "install_to" : "GameData" 
+      	} 
+    ]
+}
