@@ -9,8 +9,8 @@
     "depends" : [
         { "name": "ModuleManager" }
     ],
-    "suggests"   : [
-    	{ "name": "SETI-RebalanceMaterialsGoo" }
+    "recommends" : [
+    		{ "name": "KSP-AVC" }
     ],
     "install" : [
         { 
