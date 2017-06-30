@@ -44,6 +44,7 @@
 		{ "name": "HullcamVDSContinued" },
 		{ "name": "JanitorsCloset" },
 		{ "name": "K2CommandPodCont" },
+		{ "name": "KerbalNRAP" },
 		{ "name": "KerbalAlarmClock" },
 		{ "name": "KerbalEngineerRedux" },
 		{ "name": "KerbalJointReinforcement" },
@@ -54,6 +55,7 @@
 		{ "name": "LandingHeight" },
 		{ "name": "LightsOut" },
 		{ "name": "MechJeb2" },
+		{ "name": "NavballDockAlignIndCE" },
 		{ "name": "PartOverhaulsSETI" },
 		{ "name": "PlanetShine-Config-Default" },
 		{ "name": "PreciseManeuver" },
@@ -77,7 +79,6 @@
 		{ "name": "SmartActuation" },
 		{ "name": "StageRecovery" },
 		{ "name": "StationScienceContinued" },
-		{ "name": "Strategia" },
 		{ "name": "TacFuelBalancer" },
 		{ "name": "TACLS" },
 		{ "name": "TakeCommandContinued" },
@@ -97,7 +98,11 @@
     "suggests"   : [
     		{ "name": "B9-PWings-Fork" },
 		{ "name": "BackgroundProcessing" },
+		{ "name": "KerbalConstructionTime" },
+		{ "name": "ProceduralParts" },
 		{ "name": "SETI-ProbeControlEnabler" },
+		{ "name": "StateFundingContinued" },
+		{ "name": "Strategia" },
 		{ "name": "ThrottleControlledAvionics" }
     ],
     "install" : [
