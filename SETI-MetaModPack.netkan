@@ -2,7 +2,7 @@
     "$kref" : "#/ckan/github/Y3mo/SETI-MetaModPack",
     "$vref" : "#/ckan/ksp-avc",
     "spec_version" : "v1.6",
-    "name": "SETI--MetaModPack",
+    "name": "SETI-MetaModPack",
     "identifier": "SETI-MetaModPack",
     "abstract"     : "This is the fulcrum for the SETI meta mod pack. Only select this mod in CKAN, then click ApplyChanges and accept all recommendations and optionally the suggestions you like, to get a more balanced and challenging KSP experience!",
     "license"	: "restricted",
