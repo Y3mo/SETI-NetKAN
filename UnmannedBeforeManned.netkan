@@ -12,7 +12,7 @@
     "recommends" : [
     		{ "name": "CommunityTechTree" },
     		{ "name": "KSP-AVC" },
-    		{ "name": "TakeCommand" }
+    		{ "name": "TakeCommandContinued" }
     ],
     "install" : [
         { 
