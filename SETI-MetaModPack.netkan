@@ -99,6 +99,7 @@
     		{ "name": "B9-PWings-Fork" },
 		{ "name": "BackgroundProcessing" },
 		{ "name": "KerbalConstructionTime" },
+		{ "name": "KRASH" },
 		{ "name": "ProceduralParts" },
 		{ "name": "SETI-ProbeControlEnabler" },
 		{ "name": "StateFundingContinued" },
