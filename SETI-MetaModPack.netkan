@@ -41,6 +41,7 @@
 		{ "name": "EVAParachutes" },
 		{ "name": "FilterExtensionsDefaultConfig" },
 		{ "name": "FinalFrontier" },
+		{ "name": "FlexibleDocking" },
 		{ "name": "FMRSContinued" },
 		{ "name": "FuseBoxContinued" },
 		{ "name": "HullcamVDSContinued" },
