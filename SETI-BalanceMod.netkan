@@ -5,7 +5,6 @@
     "name"          : "SETI-Rebalance",
     "identifier"    : "SETI-BalanceMod",
     "x_netkan_license_ok" : true,
-    "ksp_version_max": "1.99.99",
     "depends" : [
         { "name": "ModuleManager" }
     ],
@@ -13,11 +12,11 @@
     		{ "name": "KSP-AVC" }
     ],
     "install" : [
-        { 
+        {
           "find"       : "SETIrebalance",
           "install_to" : "GameData"
         },
-        { 
+        {
           "find"       : "SETIrebalanceReactionWheels",
           "install_to" : "GameData"
         }
