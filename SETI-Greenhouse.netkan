@@ -3,14 +3,13 @@
   "spec_version"    : 1,
   "identifier"      : "SETI-Greenhouse",
   "license"         : "CC-BY-NC-SA-3.0",
-  "ksp_version_max" : "1.99.99",
   "depends"         : [
     { "name"  : "ModuleManager" }
   ],
   "install"         : [
-    { 
+    {
       "file"  : "SETIgreenhouse",
-      "install_to"  : "GameData" 
-    } 
+      "install_to"  : "GameData"
+    }
   ]
 }

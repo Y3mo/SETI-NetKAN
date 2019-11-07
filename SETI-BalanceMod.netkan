@@ -1,11 +1,10 @@
 {
-    "spec_version"  : "v1.2",
+    "spec_version"  : "v1.4",
     "$kref"         : "#/ckan/spacedock/14",
     "$vref"         : "#/ckan/ksp-avc",
     "name"          : "SETI-Rebalance",
     "identifier"    : "SETI-BalanceMod",
     "x_netkan_license_ok" : true,
-    "ksp_version_max": "1.99.99",
     "depends" : [
         { "name": "ModuleManager" }
     ],
@@ -13,11 +12,11 @@
     		{ "name": "KSP-AVC" }
     ],
     "install" : [
-        { 
+        {
           "find"       : "SETIrebalance",
           "install_to" : "GameData"
         },
-        { 
+        {
           "find"       : "SETIrebalanceReactionWheels",
           "install_to" : "GameData"
         }

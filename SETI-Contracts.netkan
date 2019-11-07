@@ -4,7 +4,6 @@
     "$vref"         : "#/ckan/ksp-avc",
     "identifier"    : "SETI-Contracts",
     "x_netkan_license_ok" : true,
-    "ksp_version_max": "1.99.99",
     "depends" : [
         { "name": "ContractConfigurator" },
         { "name": "ModuleManager" }
@@ -19,7 +18,7 @@
         { "name": "WaypointManager" }
     ],
     "install" : [
-        { 
+        {
           "file"       : "SETIcontracts",
           "install_to" : "GameData"
         }
