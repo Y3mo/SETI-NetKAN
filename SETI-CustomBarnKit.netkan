@@ -1,22 +1,22 @@
 {
-  "$kref"         : "#/ckan/github/Y3mo/SETI-CustomBarnKit",
-  "$vref"         : "#/ckan/ksp-avc",
-  "spec_version"  : 1,
-  "name"          : "SETI-CustomBarnKit-Config (EXPERIMENTAL)",
-  "identifier"    : "SETI-CustomBarnKit",
-  "abstract"      : "EXPERIMENTAL: Use at your own risk at this time. This is a SETI config for CustomBarnKit, increasing the number of building upgrade levels and tweaking unlocks (eg action groups available from the start). Especially balanced for SETIrebalance mod pack.",
-  "license"       : "MIT",
-  "resources"     : {
-    "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
-  },
-  "depends"       : [
-    { "name"      : "ModuleManager" },
-    { "name"      : "CustomBarnKit" }
-  ],
-  "install"       : [
-    {
-      "find"      : "SETIcustomBarnKitConfig",
-      "install_to" : "GameData"
-    }
-  ]
+    "$kref"         : "#/ckan/github/Y3mo/SETI-CustomBarnKit",
+    "$vref"         : "#/ckan/ksp-avc",
+    "spec_version" : "v1.4",
+    "name"          : "SETI-CustomBarnKit-Config (EXPERIMENTAL)",
+    "identifier"    : "SETI-CustomBarnKit",
+    "abstract"      : "EXPERIMENTAL: Use at your own risk at this time. This is a SETI config for CustomBarnKit, increasing the number of building upgrade levels and tweaking unlocks (eg action groups available from the start). Especially balanced for SETIrebalance mod pack.",
+    "license"       : "MIT",
+    "resources"     : {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
+    },
+    "depends"       : [
+        { "name"      : "ModuleManager" },
+        { "name"      : "CustomBarnKit" }
+    ],
+    "install"       : [
+        {
+            "find"      : "SETIcustomBarnKitConfig",
+            "install_to" : "GameData"
+        }
+    ]
 }

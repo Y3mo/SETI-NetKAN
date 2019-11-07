@@ -1,5 +1,5 @@
 {
-    "spec_version"  : "v1.2",
+    "spec_version"  : "v1.4",
     "$kref"         : "#/ckan/spacedock/20",
     "$vref" 	    : "#/ckan/ksp-avc",
     "name"	    : "Unmanned before Manned (SETI-UbM)",

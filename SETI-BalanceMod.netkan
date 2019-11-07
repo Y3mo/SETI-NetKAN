@@ -1,5 +1,5 @@
 {
-    "spec_version"  : "v1.2",
+    "spec_version"  : "v1.4",
     "$kref"         : "#/ckan/spacedock/14",
     "$vref"         : "#/ckan/ksp-avc",
     "name"          : "SETI-Rebalance",

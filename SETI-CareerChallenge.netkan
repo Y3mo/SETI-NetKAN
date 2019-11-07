@@ -1,21 +1,21 @@
 {
-  "$kref"         : "#/ckan/github/Y3mo/SETI-CareerChallenge",
-  "$vref"         : "#/ckan/ksp-avc",
-  "spec_version"  : 1,
-  "name"          : "SETI-CareerChallenge",
-  "identifier"    : "SETI-CareerChallenge",
-  "abstract"      : "Reduces experiment science by 70% to somewhat balance out the science gained from contracts in career mode, compared to science mode.",
-  "license"       : "restricted",
-  "resources"     : {
-    "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
-  },
-  "depends"       : [
-    { "name"      : "ModuleManager" }
-  ],
-  "install"       : [
-    {
-      "find"      : "SETIcareerChallenge",
-      "install_to" : "GameData"
-    }
-  ]
+    "$kref"         : "#/ckan/github/Y3mo/SETI-CareerChallenge",
+    "$vref"         : "#/ckan/ksp-avc",
+    "spec_version"  : "v1.4",
+    "name"          : "SETI-CareerChallenge",
+    "identifier"    : "SETI-CareerChallenge",
+    "abstract"      : "Reduces experiment science by 70% to somewhat balance out the science gained from contracts in career mode, compared to science mode.",
+    "license"       : "restricted",
+    "resources"     : {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
+    },
+    "depends"       : [
+        { "name"      : "ModuleManager" }
+    ],
+    "install"       : [
+        {
+            "find"      : "SETIcareerChallenge",
+            "install_to" : "GameData"
+        }
+    ]
 }
